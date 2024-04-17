@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "206300820126",
+    "firebase_url": "https://ecovidaverde12-default-rtdb.firebaseio.com",
+    "project_id": "ecovidaverde12",
+    "storage_bucket": "ecovidaverde12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206300820126:android:e123d8cd96169a4e17418f",
+        "android_client_info": {
+          "package_name": "com.example.ecovidaverde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVZPZN07AuDOWOIqUCIjUkTfreQIoc8sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
